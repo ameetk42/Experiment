@@ -20,5 +20,5 @@ Properties to change: spring.mail.username and spring.mail.password
 5-- For testing the application,  you can remove the comments from @Scheduled(fixedRate = 1000) line before the performExperiment() method and put comments on  @Scheduled(cron = "0 0 16 * * ?")
 @Scheduled(cron = "0 0 12 * * ?")
 @Scheduled(cron = "0 0 08 * * ?")
-as they only send email 8am, 12pm, and 4pm.
+as they only send email at 8am, 12pm, and 4pm.
 
