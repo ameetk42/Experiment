@@ -1,0 +1,220 @@
+2019-10-28 11:00:26.917  INFO 17772 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 17772 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:00:26.920 DEBUG 17772 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:00:26.920  INFO 17772 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:00:27.425  INFO 17772 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:00:27.445  INFO 17772 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.897 seconds (JVM running for 1.882)
+2019-10-28 11:00:36.467 TRACE 17772 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 403 for URL: https://eodhistoricaldata.com/api/real-time/EUR.FOREXs?api_token=OeAFFmMliFG5orCUuwAKQ8l4WWFQ67YX&fmt=json
+2019-10-28 11:00:37.168  INFO 17772 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 11:00:37.172  INFO 17772 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:16:07.093  WARN 7296 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10-28 11:16:07.112  INFO 7296 --- [main] c.e.Assignment1ApplicationTests          : Starting Assignment1ApplicationTests on Amit with PID 7296 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:16:07.112 DEBUG 7296 --- [main] c.e.Assignment1ApplicationTests          : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:16:07.113  INFO 7296 --- [main] c.e.Assignment1ApplicationTests          : No active profile set, falling back to default profiles: default
+2019-10-28 11:16:07.995  INFO 7296 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:16:08.025  INFO 7296 --- [main] c.e.Assignment1ApplicationTests          : Started Assignment1ApplicationTests in 1.361 seconds (JVM running for 3.48)
+2019-10-28 11:16:08.468  INFO 7296 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:18:04.222  WARN 23876 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10-28 11:18:04.243  INFO 23876 --- [main] c.e.Assignment1ApplicationTests          : Starting Assignment1ApplicationTests on Amit with PID 23876 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:18:04.244 DEBUG 23876 --- [main] c.e.Assignment1ApplicationTests          : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:18:04.245  INFO 23876 --- [main] c.e.Assignment1ApplicationTests          : No active profile set, falling back to default profiles: default
+2019-10-28 11:18:05.232  INFO 23876 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:18:05.261  INFO 23876 --- [main] c.e.Assignment1ApplicationTests          : Started Assignment1ApplicationTests in 1.517 seconds (JVM running for 3.33)
+2019-10-28 11:18:05.656  INFO 23876 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:19:11.959  WARN 25064 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10-28 11:19:11.979  INFO 25064 --- [main] c.e.Assignment1ApplicationTests          : Starting Assignment1ApplicationTests on Amit with PID 25064 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:19:11.979 DEBUG 25064 --- [main] c.e.Assignment1ApplicationTests          : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:19:11.980  INFO 25064 --- [main] c.e.Assignment1ApplicationTests          : No active profile set, falling back to default profiles: default
+2019-10-28 11:19:12.843  INFO 25064 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:19:12.871  INFO 25064 --- [main] c.e.Assignment1ApplicationTests          : Started Assignment1ApplicationTests in 1.335 seconds (JVM running for 2.92)
+2019-10-28 11:19:13.362  INFO 25064 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:36:57.145  INFO 976 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 976 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:36:57.147 DEBUG 976 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:36:57.147  INFO 976 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:36:57.666  INFO 976 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:36:57.687  INFO 976 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.931 seconds (JVM running for 2.142)
+2019-10-28 11:37:09.012 TRACE 976 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 403 for URL: https://eodhistoricaldata.com/api/real-time/EUR.FOREXs?api_token=OeAFFmMliFG5orCUuwAKQ8l4WWFQ67YX&fmt=json
+2019-10-28 11:37:22.433 TRACE 976 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 403 for URL: https://eodhistoricaldata.com/api/real-time/EUR.FOREXs?api_token=OeAFFmMliFG5orCUuwAKQ8l4WWFQ67YX&fmt=json
+2019-10-28 11:37:30.046  INFO 976 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 11:37:30.053  INFO 976 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:37:35.432 TRACE 976 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 403 for URL: https://eodhistoricaldata.com/api/real-time/EUR.FOREXs?api_token=OeAFFmMliFG5orCUuwAKQ8l4WWFQ67YX&fmt=json
+2019-10-28 11:41:24.841  INFO 17828 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 17828 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:41:24.844 DEBUG 17828 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:41:24.844  INFO 17828 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:41:25.367  INFO 17828 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:41:25.386  INFO 17828 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.93 seconds (JVM running for 1.888)
+2019-10-28 11:41:52.875  INFO 17828 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 11:41:52.883  INFO 17828 --- [RMI TCP Connection(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:45:49.106  INFO 26444 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 26444 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:45:49.111 DEBUG 26444 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:45:49.112  INFO 26444 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:45:49.793  INFO 26444 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:45:49.817  INFO 26444 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.172 seconds (JVM running for 2.441)
+2019-10-28 11:47:34.643 TRACE 26444 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db1227f4de882.84450622&fmt=json
+2019-10-28 11:48:59.875 TRACE 26444 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db1227f4de882.84450622&fmt=json
+2019-10-28 11:51:11.498  INFO 11260 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 11260 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:51:11.500 DEBUG 11260 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:51:11.501  INFO 11260 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:51:12.069  INFO 11260 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:51:12.103  INFO 11260 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.002 seconds (JVM running for 2.043)
+2019-10-28 11:51:27.009  INFO 11260 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 11:51:27.016  INFO 11260 --- [RMI TCP Connection(6)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:54:39.572  INFO 29280 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 29280 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:54:39.577 DEBUG 29280 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:54:39.577  INFO 29280 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:54:40.411  INFO 29280 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:54:40.444  INFO 29280 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.46 seconds (JVM running for 2.742)
+2019-10-28 11:56:19.000  INFO 15116 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 15116 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:56:19.002 DEBUG 15116 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:56:19.003  INFO 15116 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:56:19.518  INFO 15116 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:56:19.539  INFO 15116 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.921 seconds (JVM running for 1.86)
+2019-10-28 11:56:37.549 TRACE 15116 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db6495d9e1690.20173424&fmt=json
+2019-10-28 11:56:41.735  INFO 15116 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 11:56:41.738  INFO 15116 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 11:59:36.386  INFO 6348 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 6348 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 11:59:36.390 DEBUG 6348 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 11:59:36.390  INFO 6348 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 11:59:37.083  INFO 6348 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 11:59:37.113  INFO 6348 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.186 seconds (JVM running for 2.584)
+2019-10-28 12:05:40.525  INFO 29628 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 29628 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:05:40.530 DEBUG 29628 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:05:40.531  INFO 29628 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:05:41.219  INFO 29628 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:05:41.245  INFO 29628 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.163 seconds (JVM running for 2.263)
+2019-10-28 12:07:18.835  INFO 22480 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 22480 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:07:18.837 DEBUG 22480 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:07:18.838  INFO 22480 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:07:19.379  INFO 22480 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:07:19.400  INFO 22480 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.968 seconds (JVM running for 1.972)
+2019-10-28 12:07:29.920  INFO 22480 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:07:29.925  INFO 22480 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:08:29.954  INFO 25572 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 25572 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:08:29.957 DEBUG 25572 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:08:29.957  INFO 25572 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:08:30.600  INFO 25572 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:08:30.637  INFO 25572 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.082 seconds (JVM running for 2.205)
+2019-10-28 12:08:55.633 TRACE 25572 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:08:55.825  INFO 25572 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:08:55.827  INFO 25572 --- [RMI TCP Connection(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:09:01.716 TRACE 25572 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:09:07.247 TRACE 25572 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:14:12.921  INFO 9776 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 9776 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:14:12.924 DEBUG 9776 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:14:12.924  INFO 9776 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:14:13.447  INFO 9776 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:14:13.468  INFO 9776 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.916 seconds (JVM running for 2.145)
+2019-10-28 12:14:28.922  INFO 9776 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:14:28.930  INFO 9776 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:14:45.848  WARN 24924 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Amit%20K/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2019-10-28 12:14:45.865  INFO 24924 --- [main] c.e.Assignment1ApplicationTests          : Starting Assignment1ApplicationTests on Amit with PID 24924 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:14:45.865 DEBUG 24924 --- [main] c.e.Assignment1ApplicationTests          : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:14:45.866  INFO 24924 --- [main] c.e.Assignment1ApplicationTests          : No active profile set, falling back to default profiles: default
+2019-10-28 12:14:46.637  INFO 24924 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:14:46.663  INFO 24924 --- [main] c.e.Assignment1ApplicationTests          : Started Assignment1ApplicationTests in 1.198 seconds (JVM running for 2.717)
+2019-10-28 12:14:47.061  INFO 24924 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:17:26.706  INFO 24636 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 24636 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:17:26.708 DEBUG 24636 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:17:26.708  INFO 24636 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:17:27.218  INFO 24636 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:17:27.238  INFO 24636 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.908 seconds (JVM running for 1.85)
+2019-10-28 12:17:54.499  INFO 24636 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:17:54.506  INFO 24636 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:18:11.249  INFO 22208 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 22208 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:18:11.252 DEBUG 22208 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:18:11.253  INFO 22208 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:18:12.196  INFO 22208 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:18:12.221  INFO 22208 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.365 seconds (JVM running for 2.386)
+2019-10-28 12:18:18.059 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:22.673 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:26.795 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:30.693 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:34.686 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:37.959 ERROR 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occured
+2019-10-28 12:18:45.232 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:49.313 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:50.516  INFO 22208 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:18:50.522  INFO 22208 --- [RMI TCP Connection(10)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:18:53.347 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:18:58.134 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:19:02.435 TRACE 22208 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:20:56.635  INFO 25732 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 25732 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:20:56.637 DEBUG 25732 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:20:56.638  INFO 25732 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:20:57.151  INFO 25732 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:20:57.172  INFO 25732 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.931 seconds (JVM running for 2.286)
+2019-10-28 12:21:03.559 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:06.889 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:10.876 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:14.337 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:18.431 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:21.439 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:25.490 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:29.816 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:32.877  INFO 25732 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:21:32.881  INFO 25732 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:21:33.688 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:36.831 TRACE 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:21:40.436 ERROR 25732 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occured
+2019-10-28 12:23:02.580  INFO 3484 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 3484 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:23:02.584 DEBUG 3484 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:23:02.585  INFO 3484 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:23:03.125  INFO 3484 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:23:03.145  INFO 3484 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.963 seconds (JVM running for 2.136)
+2019-10-28 12:23:05.432 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:12.056 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDUSD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:12.678 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:17.890 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDNZD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:18.585 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:21.126  INFO 3484 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:23:21.134  INFO 3484 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:23:23.465 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDHKD.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:24.375 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:29.705 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDKRW.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:30.476 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:23:35.607 TRACE 3484 --- [scheduling-1] com.experiment.AssignmentController      : Exception Occuredjava.io.IOException: Server returned HTTP response code: 402 for URL: https://eodhistoricaldata.com/api/real-time/AUDJPY.FOREX?api_token=5db64b633fcf38.83823380&fmt=json
+2019-10-28 12:27:35.948  INFO 27044 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 27044 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:27:35.951 DEBUG 27044 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:27:35.952  INFO 27044 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:27:36.477  INFO 27044 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:27:36.497  INFO 27044 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 0.924 seconds (JVM running for 1.857)
+2019-10-28 12:27:59.024  INFO 27044 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:27:59.030  INFO 27044 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2019-10-28 12:28:20.043  INFO 664 --- [main] com.experiment.Assignment1Application    : Starting Assignment1Application on Amit with PID 664 (started by Amit K in C:\Users\Amit K\Documents\workspace-spring-tool-suite-4-4.4.1.RELEASE\assignment-1)
+2019-10-28 12:28:20.046 DEBUG 664 --- [main] com.experiment.Assignment1Application    : Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2019-10-28 12:28:20.047  INFO 664 --- [main] com.experiment.Assignment1Application    : No active profile set, falling back to default profiles: default
+2019-10-28 12:28:20.589  INFO 664 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-10-28 12:28:20.611  INFO 664 --- [main] com.experiment.Assignment1Application    : Started Assignment1Application in 1.085 seconds (JVM running for 2.07)
+2019-10-28 12:28:46.695  INFO 664 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-10-28 12:28:46.701  INFO 664 --- [RMI TCP Connection(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
